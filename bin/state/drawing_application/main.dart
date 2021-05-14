@@ -1,5 +1,5 @@
-import 'canvas.dart';
 import 'tools/brush.dart';
+import 'tools/canvas.dart';
 import 'tools/selection.dart';
 
 main(List<String> args) {

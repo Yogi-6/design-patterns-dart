@@ -1,4 +1,4 @@
-import 'tool.dart';
+import '../tool.dart';
 
 class Canvas {
   final Tool _tool;
