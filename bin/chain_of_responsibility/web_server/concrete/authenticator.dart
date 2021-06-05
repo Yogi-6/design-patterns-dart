@@ -11,6 +11,8 @@ class Authenticator extends Handler {
 
     print('Authentication');
 
-    return !isValid;
+    request = HttpRequest(password: 'hey', username: 'heyee');
+
+    return isValid;
   }
 }

@@ -11,5 +11,5 @@ main(List<String> args) {
 
   final webServer = WebServer(authenticator);
 
-  webServer.handle(HttpRequest(username: 'john', password: 'john123'));
+  webServer.handle(HttpRequest(username: 'john', password: 'john1243'));
 }
